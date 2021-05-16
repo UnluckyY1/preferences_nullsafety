@@ -26,7 +26,7 @@ You should ensure that you add `preferences_nullsafety` as a dependency in your 
 
 ```yaml
 dependencies:
-  preferences: ^4.0.1-nullSafety
+  preferences_nullsafety: ^4.0.1-nullSafety
 ```
 
 Then run `flutter packages get` to get the package.
