@@ -2,7 +2,7 @@ name: preferences_nullsafety
 description: Create Preference Screens easily with advanced features and subpages
 version: 4.0.1-nullSafety
 author: Unlucky <benmassaoudyassin@gmail.com>
-homepage: https://gitlab.com/redsolver/preferences
+homepage: https://github.com/UnluckyY1/preferences_nullsafety
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
